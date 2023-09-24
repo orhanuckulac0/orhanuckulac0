@@ -1,14 +1,20 @@
-### Hi there 👋
+**Hi there** 👋
 - 🔭 I’m currently working on an Online Messaging App using Jetpack Compose and Firebase
 - 🌱 I’m currently learning Kotlin Multiplatform (KMM) and KTOR
 - 👯 I’m looking to collaborate on fun open source projects
 - ⚡ If you need help with your Android App project, let me know I can help for free!
 - 📫 How to reach me: orhanuckulac@gmail.com
 
-## My Apps:
-### CoinWise
+**My Apps:**
+<br>
+<br>
+**CoinWise**
+<br>
 [![google_play_icon](google_play_icon.png)](https://play.google.com/store/apps/details?id=coinwise.investmenttracker)
-### NootPad
+<br>
+<br>
+**NootPad**
+<br>
 [![google_play_icon](google_play_icon.png)](https://play.google.com/store/apps/details?id=nootpad.todotracker)
 
 <!--
