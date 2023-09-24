@@ -1,4 +1,4 @@
-### <span style="pointer-events: none;">Hi there</span> 👋
+### Hi there 👋
 - 🔭 I’m currently working on an Online Messaging App using Jetpack Compose and Firebase
 - 🌱 I’m currently learning Kotlin Multiplatform (KMM) and KTOR
 - 👯 I’m looking to collaborate on fun open source projects
