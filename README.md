@@ -1,5 +1,5 @@
 **Hi there** 👋
-- 🔭 I'm currently working at FoodCLUB as an Android Developer Intern
+- 🔭 I'm currently working at FoodCLUB as Android Co-Lead Developer
 - 🌱 I’m currently learning Kotlin Multiplatform (KMM) and KTOR
 - 👯 I’m looking to collaborate on fun open source projects
 - ⚡ If you need help with your Android App project, let me know I can help for free!
